@@ -1,4 +1,4 @@
 {
 	"exposed": true,
-	"authentication" : [{ "method" : "From" }]
+	"authentication" : [{ "method" : "Form" }]
 }
